@@ -36,3 +36,17 @@ AUTHOR
 * (f)open, (f)close, (f)read, (f)write
 * getline, ioctl, usleep, sigaction, signal
 * Every functions from the [ncurses](https://www.gnu.org/software/ncurses/) library
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/screenshot1.png">
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot2.png">
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot3.png">
+</p>
