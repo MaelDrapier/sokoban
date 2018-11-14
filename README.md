@@ -30,11 +30,9 @@ AUTHOR
 		Made by Mael Drapier
 ```
 
-## Authorized functions
+## Authorized functions for this project:
 
-Every functions from the [ncurses](https://www.gnu.org/software/ncurses/) library are authorized.
-
-In addition, the following system calls and functions are allowed:
 * malloc, free, exit
 * (f)open, (f)close, (f)read, (f)write
 * getline, ioctl, usleep, sigaction, signal
+* Every functions from the [ncurses](https://www.gnu.org/software/ncurses/) library
