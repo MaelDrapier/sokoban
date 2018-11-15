@@ -13,7 +13,15 @@ Compilation: **on GNU/Linux via Makefile**
 
 Project duration: **~2 weeks** (05/12/2016 - 20/12/2016)
 
-Required library: [ncurses](https://www.gnu.org/software/ncurses/)
+#### Required library: [ncurses](https://www.gnu.org/software/ncurses/)
+To install it:
+* on Debian / Ubuntu:
+`sudo apt-get install libncurses5-dev libncursesw5-dev`
+* on Arch Linux:
+`sudo pacman -S ncurses`
+* on Fedora:
+`sudo dnf install ncurses-devel`
+* on other distributions, download it on `ftp://ftp.gnu.org/gnu/ncurses/`
 
 ## Usage
 ```
