@@ -23,6 +23,8 @@ To install it:
 `sudo dnf install ncurses-devel`
 * on other distributions, download it on `ftp://ftp.gnu.org/gnu/ncurses/`
 
+<br>
+
 ## Usage
 ```
 ./my_sokoban -h
